@@ -7,7 +7,7 @@ This allows uploading multiple images using carrierwave.
  - That answer also provides a working demo of the app, which I'm going to post [here](https://github.com/savanr/rails-carrierwave-multiple-attachment) as well.
 
 ### Run App
-1. In your terminal, run `git clone git@github.com:DMonMac/Rails-Carrierwave-Multi-Upload.git`
+1. In your terminal, run `git clone https://github.com/DMonMac/Rails-Carrierwave-Multi-Upload.git`
 
 2. Run the following commands in this order:
     ```
